@@ -6,3 +6,7 @@
  2. [Live-chart](https://github.com/Live-Charts/Live-Charts)
  3. [DynamicDataDisplay](https://github.com/dotnetprojects/DynamicDataDisplay)
  4. [DynamicDataDisplay---MVVM](https://github.com/hanzhw/DynamicDataDisplay---MVVM)
+ 5. [InteractiveDataDisplay.WPF](https://github.com/microsoft/InteractiveDataDisplay.WPF)
+ 6. [curculargauge]()
+# WPF
+ 1. [WPFGrowlNotification](https://github.com/IvanLeonenko/WPFGrowlNotification)
