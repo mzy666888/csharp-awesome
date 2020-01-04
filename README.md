@@ -10,7 +10,7 @@
 # Charts
 连接 | 说明
 -|-
- [OxyPlot](https://github.com/oxyplot/oxyplot) |
+ [OxyPlot](https://github.com/oxyplot/oxyplot) | A cross-platform plotting library for .NET [https://oxyplot.github.io/](https://oxyplot.github.io/)
  [Live-chart](https://github.com/Live-Charts/Live-Charts) | 
  [DynamicDataDisplay](https://github.com/dotnetprojects/DynamicDataDisplay) | 
  [DynamicDataDisplay---MVVM](https://github.com/hanzhw/DynamicDataDisplay---MVVM)| 
