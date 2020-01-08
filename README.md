@@ -21,3 +21,8 @@
 链接 | 说明
 ---|---
  [WPFGrowlNotification](https://github.com/IvanLeonenko/WPFGrowlNotification) | 
+
+# JavaScript plugins
+链接 | 说明
+---|---
+[icheck-bootstrap](https://github.com/bantikyan/icheck-bootstrap)
