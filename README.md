@@ -26,3 +26,4 @@
 链接 | 说明
 ---|---
 [icheck-bootstrap](https://github.com/bantikyan/icheck-bootstrap) | Pure css checkboxes and radio buttons for Twitter Bootstrap.
+[bs-custom-file-input](https://github.com/Johann-S/bs-custom-file-input) | A little plugin for Bootstrap 4 custom file input
