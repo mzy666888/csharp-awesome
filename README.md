@@ -25,4 +25,4 @@
 # JavaScript plugins
 链接 | 说明
 ---|---
-[icheck-bootstrap](https://github.com/bantikyan/icheck-bootstrap)
+[icheck-bootstrap](https://github.com/bantikyan/icheck-bootstrap) | Pure css checkboxes and radio buttons for Twitter Bootstrap.
