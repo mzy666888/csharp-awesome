@@ -7,7 +7,7 @@
 [Humanizer](https://github.com/Humanizr/Humanizer)  | Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 [NModbus4](https://github.com/NModbus4/NModbus4) | NModbus4 is a C# implementation of the Modbus protocol. 支持的类型为`ushort`
 [NModbus4](https://github.com/mzy666888/NModbus4) | 支持类型为`short`
-
+[RestSharp](https://github.com/restsharp/RestSharp) | Simple REST and HTTP API Client for .NET
 # Charts
 链接 | 说明
 ---|---
