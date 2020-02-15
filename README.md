@@ -30,3 +30,6 @@
 [bs-custom-file-input](https://github.com/Johann-S/bs-custom-file-input) | A little plugin for Bootstrap 4 custom file input | YES
 [bwip-js](https://github.com/metafloor/bwip-js) |Barcode Writer in Pure JavaScript [用例](http://bwip-js.metafloor.com/demo/demo.html) | YES
 [zdog](https://github.com/metafizzy/zdog) | Flat, round, designer-friendly pseudo-3D engine for canvas & SVG https://zzz.dog | NO
+[sweetalert2](https://github.com/sweetalert2/sweetalert2) | A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. https://sweetalert2.github.io/ | YES
+[select2](https://github.com/select2/select2) | Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results. https://select2.org/ | YES
+[select2-bootstrap4-theme](https://github.com/ttskch/select2-bootstrap4-theme) | Select2 v4 theme for Bootstrap4 | YES
