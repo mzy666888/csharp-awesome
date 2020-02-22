@@ -9,6 +9,7 @@
 [NModbus4](https://github.com/mzy666888/NModbus4) | 支持类型为`short` | YES
 [RestSharp](https://github.com/restsharp/RestSharp) | Simple REST and HTTP API Client for .NET | YES
 [DiligentEngine](https://github.com/DiligentGraphics/DiligentEngine) | A modern cross-platform low-level graphics library and rendering framework | NO
+
 # Charts
 链接 | 说明 | 是否使用过
 ---|---|---
@@ -22,6 +23,7 @@
 链接 | 说明 | 是否使用过
 ---|---|---
  [WPFGrowlNotification](https://github.com/IvanLeonenko/WPFGrowlNotification) |  | YES
+ [ToastNotifications](https://github.com/rafallopatka/ToastNotifications) | Toast notifications for WPF allows you to create and display rich notifications in WPF applications. It's highly configurable with set of built-in options like positions, behaviours, themes and many others. It's extendable, it gives you possibility to create custom and interactive notifications in simply manner. | NO
 
 # JavaScript plugins
 链接 | 说明 | 是否使用过
@@ -33,3 +35,8 @@
 [sweetalert2](https://github.com/sweetalert2/sweetalert2) | A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. https://sweetalert2.github.io/ | YES
 [select2](https://github.com/select2/select2) | Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results. https://select2.org/ | YES
 [select2-bootstrap4-theme](https://github.com/ttskch/select2-bootstrap4-theme) | Select2 v4 theme for Bootstrap4 | YES
+
+# Xamarin.Forms
+链接 | 说明 | 是否使用过
+---|---|---
+[Toast](https://github.com/ishrakland/Toast) | o use it in PCL or .NetStandard projects write this line of code : CrossToastPopUp.Current.ShowToastMessage("Message"); | YES
