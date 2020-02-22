@@ -39,4 +39,4 @@
 # Xamarin.Forms
 链接 | 说明 | 是否使用过
 ---|---|---
-[Toast](https://github.com/ishrakland/Toast) | o use it in PCL or .NetStandard projects write this line of code : CrossToastPopUp.Current.ShowToastMessage("Message"); | YES
+[Toast](https://github.com/ishrakland/Toast) | To use it in PCL or .NetStandard projects write this line of code : CrossToastPopUp.Current.ShowToastMessage("Message"); | YES
