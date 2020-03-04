@@ -9,7 +9,8 @@
 [NModbus4](https://github.com/mzy666888/NModbus4) | 支持类型为`short` | YES
 [RestSharp](https://github.com/restsharp/RestSharp) | Simple REST and HTTP API Client for .NET | YES
 [DiligentEngine](https://github.com/DiligentGraphics/DiligentEngine) | A modern cross-platform low-level graphics library and rendering framework | NO
-
+[SharpConfig](https://github.com/cemdervis/SharpConfig) | An easy to use CFG/INI configuration library for .NET. | YES
+[mvvmlight](https://github.com/jamesmcroft/mvvmlight) | The main purpose of the toolkit is to accelerate the creation and development of MVVM applications in Xamarin.Android, Xamarin.iOS, Xamarin.Forms, Windows 10 UWP, Windows Presentation Foundation (WPF), Silverlight, Windows Phone. http://www.mvvmlight.net | YES
 # Charts
 链接 | 说明 | 是否使用过
 ---|---|---
