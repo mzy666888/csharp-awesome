@@ -25,6 +25,7 @@
 ---|---|---
  [WPFGrowlNotification](https://github.com/IvanLeonenko/WPFGrowlNotification) |  | YES
  [ToastNotifications](https://github.com/rafallopatka/ToastNotifications) | Toast notifications for WPF allows you to create and display rich notifications in WPF applications. It's highly configurable with set of built-in options like positions, behaviours, themes and many others. It's extendable, it gives you possibility to create custom and interactive notifications in simply manner. | NO
+ [Codon](https://github.com/CodonFramework/Codon) | Codon is a zero-dependency cross-platform MVVM framework for creating UWP, WPF, and Xamarin applications. It provides much of what you need to rapidly create sophisticated yet maintainable applications. | NO
 
 # JavaScript plugins
 链接 | 说明 | 是否使用过
